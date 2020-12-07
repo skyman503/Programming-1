@@ -1,0 +1,46 @@
+﻿  source.cpp
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(99,18): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(100,103): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(100,61): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(101,110): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(101,83): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(101,61): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(102,102): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(102,78): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(102,45): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(103,40): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(104,112): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(104,88): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(104,61): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(105,124): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(105,88): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(105,61): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(106,116): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(106,79): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(106,45): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(120,69): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(120,37): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(121,69): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(121,37): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(122,69): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(122,37): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(123,69): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(123,26): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(124,73): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(124,41): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(127,69): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(127,37): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(128,69): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(128,37): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(129,69): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(129,37): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(130,69): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(130,26): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(131,73): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Christmas project\source.cpp(131,41): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+  Trwa generowanie kodu
+  2 of 1140 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Christmas project.vcxproj -> C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie3 - projekt swiateczny\Christmas project\Release\Christmas project.exe

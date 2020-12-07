@@ -1,0 +1,4 @@
+﻿  zadanie2.cpp
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie2\zadanie2\zadanie2\zadanie2.cpp(9,21): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie2\zadanie2\zadanie2\zadanie2.cpp(6,12): warning C4101: "tmp": lokalna zmienna, do której nie istnieje odwołanie
+  zadanie2.vcxproj -> C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw6\zadanie2\zadanie2\Debug\zadanie2.exe

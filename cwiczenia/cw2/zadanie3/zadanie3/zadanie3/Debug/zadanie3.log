@@ -1,0 +1,15 @@
+﻿  zadanie3.cpp
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw2\zadanie3\zadanie3\zadanie3\zadanie3.cpp(38,32): warning C4244: "argument": konwersja z "__int64" do "const unsigned int", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw2\zadanie3\zadanie3\zadanie3\zadanie3.cpp(39,23): warning C4244: "argument": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw2\zadanie3\zadanie3\zadanie3\zadanie3.cpp(43,22): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw2\zadanie3\zadanie3\zadanie3\zadanie3.cpp(54,26): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw2\zadanie3\zadanie3\zadanie3\zadanie3.cpp(64,22): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw2\zadanie3\zadanie3\zadanie3\zadanie3.cpp(84,26): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw2\zadanie3\zadanie3\zadanie3\zadanie3.cpp(94,20): warning C4244: "inicjowanie": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw2\zadanie3\zadanie3\zadanie3\zadanie3.cpp(97,40): warning C4244: "argument": konwersja z "_Ty" do "int", możliwa utrata danych
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw2\zadanie3\zadanie3\zadanie3\zadanie3.cpp(98,30): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+  zadanie3.vcxproj -> C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw2\zadanie3\zadanie3\Debug\zadanie3.exe

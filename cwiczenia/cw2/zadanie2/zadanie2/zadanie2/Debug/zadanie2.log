@@ -1,0 +1,8 @@
+﻿  zadanie2.cpp
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw2\zadanie2\zadanie2\zadanie2\zadanie2.cpp(56,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw2\zadanie2\zadanie2\zadanie2\zadanie2.cpp(61,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw2\zadanie2\zadanie2\zadanie2\zadanie2.cpp(66,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw2\zadanie2\zadanie2\zadanie2\zadanie2.cpp(71,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw2\zadanie2\zadanie2\zadanie2\zadanie2.cpp(80,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw2\zadanie2\zadanie2\zadanie2\zadanie2.cpp(82,13): warning C4101: "odp": lokalna zmienna, do której nie istnieje odwołanie
+  zadanie2.vcxproj -> C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw2\zadanie2\zadanie2\Debug\zadanie2.exe

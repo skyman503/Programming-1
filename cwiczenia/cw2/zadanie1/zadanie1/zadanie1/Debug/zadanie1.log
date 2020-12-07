@@ -1,0 +1,6 @@
+﻿  zadanie1.cpp
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw2\zadanie1\zadanie1\zadanie1\zadanie1.cpp(31,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw2\zadanie1\zadanie1\zadanie1\zadanie1.cpp(33,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw2\zadanie1\zadanie1\zadanie1\zadanie1.cpp(51,22): warning C4244: "argument": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw2\zadanie1\zadanie1\zadanie1\zadanie1.cpp(57,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  zadanie1.vcxproj -> C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw2\zadanie1\zadanie1\Debug\zadanie1.exe

@@ -1,0 +1,4 @@
+﻿  zadanie1.cpp
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw5\zadanie1\zadanie1\zadanie1\zadanie1.cpp(13,21): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw5\zadanie1\zadanie1\zadanie1\zadanie1.cpp(15,17): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  zadanie1.vcxproj -> C:\Users\karol\Desktop\Studia\Progrmownie1\cwiczenia\cw5\zadanie1\zadanie1\Debug\zadanie1.exe
